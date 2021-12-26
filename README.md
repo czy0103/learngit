@@ -1,2 +1,1 @@
-nihao, shijie!
 hello, world!
